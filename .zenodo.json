@@ -1,0 +1,24 @@
+
+{
+    "title": "Visualizing Ice Core Datasets in Python Using a Jupyter Notebook Template",
+    "creators": [
+        {
+            "name": "L. Markowsky",
+            "affiliation": "Kennesaw State University",
+            "email": "lmarkowsky@gmail.com"
+        },
+        {
+            "name": "Jessica Scheick",
+            "affiliation": "University of New Hampshire",
+            "email": "jbscheick@gmail.com",
+            "orcid": "0000-0002-3421-4459"
+        }
+    ],
+    "keywords": [
+        "ice core",
+        "visualization",
+        "climate",
+        "climate change",
+        "reproducible"
+    ]
+}
